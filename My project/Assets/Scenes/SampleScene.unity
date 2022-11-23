@@ -135,7 +135,7 @@ GameObject:
   - component: {fileID: 21968984}
   - component: {fileID: 21968983}
   m_Layer: 5
-  m_Name: HPPAR
+  m_Name: HPBAR
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

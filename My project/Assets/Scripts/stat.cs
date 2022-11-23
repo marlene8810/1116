@@ -15,9 +15,9 @@ public class stat : MonoBehaviour
 
     // Update is called once per frame
     void Update()
-    { 
+    {
         //如果發現目標已經被刪掉了
-        if(target = null)
+        if (target = null)
         {
             gameObject.SetActive(false);
             Destroy(gameObject);
