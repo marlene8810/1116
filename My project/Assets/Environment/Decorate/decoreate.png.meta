@@ -1,0 +1,710 @@
+fileFormatVersion: 2
+guid: e74727899459c5c4c9d5bcfa61d89675
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5702612899864990752
+    second: decoreate_0
+  - first:
+      213: -2822643885703169260
+    second: decoreate_1
+  - first:
+      213: -7775629946287452278
+    second: decoreate_2
+  - first:
+      213: 5281378807669826895
+    second: decoreate_3
+  - first:
+      213: 2637815735882703342
+    second: decoreate_4
+  - first:
+      213: 304996202280775199
+    second: decoreate_5
+  - first:
+      213: -7349908740220412706
+    second: decoreate_6
+  - first:
+      213: 1056325554927268803
+    second: decoreate_7
+  - first:
+      213: 5653327361687087776
+    second: decoreate_8
+  - first:
+      213: -1884972524948985924
+    second: decoreate_9
+  - first:
+      213: -3912136069868168167
+    second: decoreate_10
+  - first:
+      213: -6032481359665974633
+    second: decoreate_11
+  - first:
+      213: 3600408351509119409
+    second: decoreate_12
+  - first:
+      213: -2116832937334767251
+    second: decoreate_13
+  - first:
+      213: 2103607976871913251
+    second: decoreate_14
+  - first:
+      213: 1797980436251440290
+    second: decoreate_15
+  - first:
+      213: -9160783264816265350
+    second: decoreate_16
+  - first:
+      213: 6323262656332196966
+    second: decoreate_17
+  - first:
+      213: -2638373148934082595
+    second: decoreate_18
+  - first:
+      213: 5225383804469672731
+    second: decoreate_19
+  - first:
+      213: 5080585400659641506
+    second: decoreate_20
+  - first:
+      213: 3667395623991562641
+    second: decoreate_21
+  - first:
+      213: 2374516411358948558
+    second: decoreate_22
+  - first:
+      213: -4887774456945804592
+    second: decoreate_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: decoreate_0
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1943
+        width: 244
+        height: 882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebacf308cf3cd0b0800000000000000
+      internalID: -5702612899864990752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoreate_1
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1997
+        width: 169
+        height: 753
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bfb394754f3d8d0800000000000000
+      internalID: -2822643885703169260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoreate_2
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 2463
+        width: 396
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f85aac2c9671490800000000000000
+      internalID: -7775629946287452278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoreate_3
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 2634
+        width: 471
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45af6b2b0a3b4940800000000000000
+      internalID: 5281378807669826895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoreate_4
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 2462
+        width: 371
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee16930af676b9420800000000000000
+      internalID: 2637815735882703342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoreate_5
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 2091
+        width: 118
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ee9c61e609b3400800000000000000
+      internalID: 304996202280775199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoreate_6
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1719
+        width: 376
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc9f9731f0eff990800000000000000
+      internalID: -7349908740220412706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoreate_7
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1731
+        width: 473
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c37b9cde72d8ae00800000000000000
+      internalID: 1056325554927268803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoreate_8
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1721
+        width: 373
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aaea586847a47e40800000000000000
+      internalID: 5653327361687087776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoreate_9
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 2091
+        width: 111
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb76b0fb97b37d5e0800000000000000
+      internalID: -1884972524948985924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoreate_10
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 642
+        width: 410
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cd38ac8fc45b9c0800000000000000
+      internalID: -3912136069868168167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoreate_11
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 452
+        width: 108
+        height: 730
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792b1f23a22584ca0800000000000000
+      internalID: -6032481359665974633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoreate_12
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1241
+        width: 279
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b10d06e15837f130800000000000000
+      internalID: 3600408351509119409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoreate_13
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1118
+        width: 233
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d618051b8af7f92e0800000000000000
+      internalID: -2116832937334767251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoreate_14
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1702
+        width: 712
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327e0204f44813d10800000000000000
+      internalID: 2103607976871913251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoreate_15
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 157
+        width: 507
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a47edf3ea5b3f810800000000000000
+      internalID: 1797980436251440290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoreate_16
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 93
+        width: 444
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a778844182c5ed080800000000000000
+      internalID: -9160783264816265350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoreate_17
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 109
+        width: 461
+        height: 1283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c6c2442edb0c750800000000000000
+      internalID: 6323262656332196966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoreate_18
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 1219
+        width: 581
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfead8899d926bd0800000000000000
+      internalID: -2638373148934082595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoreate_19
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 69
+        width: 1904
+        height: 1136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b7e7882ea448840800000000000000
+      internalID: 5225383804469672731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoreate_20
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 1307
+        width: 233
+        height: 1555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a48a59f08dd18640800000000000000
+      internalID: 5080585400659641506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoreate_21
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 1623
+        width: 1111
+        height: 1076
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191d6daa3e435e230800000000000000
+      internalID: 3667395623991562641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoreate_22
+      rect:
+        serializedVersion: 2
+        x: 4214
+        y: 971
+        width: 502
+        height: 1774
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecca26c681af3f020800000000000000
+      internalID: 2374516411358948558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoreate_23
+      rect:
+        serializedVersion: 2
+        x: 4323
+        y: 143
+        width: 1572
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da748727032b2cb0800000000000000
+      internalID: -4887774456945804592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      decoreate_23: -4887774456945804592
+      decoreate_20: 5080585400659641506
+      decoreate_15: 1797980436251440290
+      decoreate_17: 6323262656332196966
+      decoreate_9: -1884972524948985924
+      decoreate_2: -7775629946287452278
+      decoreate_14: 2103607976871913251
+      decoreate_6: -7349908740220412706
+      decoreate_3: 5281378807669826895
+      decoreate_13: -2116832937334767251
+      decoreate_8: 5653327361687087776
+      decoreate_5: 304996202280775199
+      decoreate_10: -3912136069868168167
+      decoreate_19: 5225383804469672731
+      decoreate_1: -2822643885703169260
+      decoreate_0: -5702612899864990752
+      decoreate_18: -2638373148934082595
+      decoreate_4: 2637815735882703342
+      decoreate_11: -6032481359665974633
+      decoreate_16: -9160783264816265350
+      decoreate_12: 3600408351509119409
+      decoreate_7: 1056325554927268803
+      decoreate_21: 3667395623991562641
+      decoreate_22: 2374516411358948558
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

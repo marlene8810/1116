@@ -1,0 +1,1537 @@
+fileFormatVersion: 2
+guid: c22b3a43bcd150e48849ddbfd1b4dac0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7143357716351762111
+    second: dan0729_Zora3_0
+  - first:
+      213: -4125039860003643378
+    second: dan0729_Zora3_1
+  - first:
+      213: -7900845905308175595
+    second: dan0729_Zora3_2
+  - first:
+      213: 5591090266524216905
+    second: dan0729_Zora3_3
+  - first:
+      213: -3255945900697156682
+    second: dan0729_Zora3_4
+  - first:
+      213: 6062056730787634905
+    second: dan0729_Zora3_5
+  - first:
+      213: -4307937898205592038
+    second: dan0729_Zora3_6
+  - first:
+      213: -4568106072723411939
+    second: dan0729_Zora3_7
+  - first:
+      213: -5335261829291670524
+    second: dan0729_Zora3_8
+  - first:
+      213: 7951683313544025638
+    second: dan0729_Zora3_9
+  - first:
+      213: 5591978645669197076
+    second: dan0729_Zora3_10
+  - first:
+      213: -7078308114285916544
+    second: dan0729_Zora3_11
+  - first:
+      213: -4142269921010603757
+    second: dan0729_Zora3_12
+  - first:
+      213: -8616760991478417987
+    second: dan0729_Zora3_13
+  - first:
+      213: 5166397828130549123
+    second: dan0729_Zora3_14
+  - first:
+      213: -3366832400964864691
+    second: dan0729_Zora3_15
+  - first:
+      213: 31333944048440508
+    second: dan0729_Zora3_16
+  - first:
+      213: 1991867778829233959
+    second: dan0729_Zora3_17
+  - first:
+      213: 1578541550064799944
+    second: dan0729_Zora3_18
+  - first:
+      213: 7883909353266741671
+    second: dan0729_Zora3_19
+  - first:
+      213: 4654546107082906333
+    second: dan0729_Zora3_20
+  - first:
+      213: -1341614384457052680
+    second: dan0729_Zora3_21
+  - first:
+      213: 4759414311357915273
+    second: dan0729_Zora3_22
+  - first:
+      213: 1435156360607517543
+    second: dan0729_Zora3_23
+  - first:
+      213: 4976268485748300979
+    second: dan0729_Zora3_24
+  - first:
+      213: -2120388812080978624
+    second: dan0729_Zora3_25
+  - first:
+      213: -5553718853146074055
+    second: dan0729_Zora3_26
+  - first:
+      213: 4579938972276276153
+    second: dan0729_Zora3_27
+  - first:
+      213: 2203939610905729302
+    second: dan0729_Zora3_28
+  - first:
+      213: -6074543947688418084
+    second: dan0729_Zora3_29
+  - first:
+      213: -444255946561644789
+    second: dan0729_Zora3_30
+  - first:
+      213: -1980693206479799579
+    second: dan0729_Zora3_31
+  - first:
+      213: -2658786199696526736
+    second: dan0729_Zora3_32
+  - first:
+      213: 7243451950199544079
+    second: dan0729_Zora3_33
+  - first:
+      213: -5391151596603879479
+    second: dan0729_Zora3_34
+  - first:
+      213: 1200077278819949252
+    second: dan0729_Zora3_35
+  - first:
+      213: -7152048117913870681
+    second: dan0729_Zora3_36
+  - first:
+      213: -2577439185294621058
+    second: dan0729_Zora3_37
+  - first:
+      213: 1489587294575120572
+    second: dan0729_Zora3_38
+  - first:
+      213: -7888626030661814112
+    second: dan0729_Zora3_39
+  - first:
+      213: -3238338131855236612
+    second: dan0729_Zora3_40
+  - first:
+      213: 9093248179247677757
+    second: dan0729_Zora3_41
+  - first:
+      213: 2069415886509049565
+    second: dan0729_Zora3_42
+  - first:
+      213: 7394980090240736976
+    second: dan0729_Zora3_43
+  - first:
+      213: -4675791781380625864
+    second: dan0729_Zora3_44
+  - first:
+      213: 784352321594078660
+    second: dan0729_Zora3_45
+  - first:
+      213: 537580452556961989
+    second: dan0729_Zora3_46
+  - first:
+      213: 5093107229120403974
+    second: dan0729_Zora3_47
+  - first:
+      213: 2622034187083245856
+    second: dan0729_Zora3_48
+  - first:
+      213: 191511243939867605
+    second: dan0729_Zora3_49
+  - first:
+      213: 1308612679883717892
+    second: dan0729_Zora3_50
+  - first:
+      213: 4142111067879907253
+    second: dan0729_Zora3_51
+  - first:
+      213: -1364351287038581898
+    second: dan0729_Zora3_52
+  - first:
+      213: -7609254936343832797
+    second: dan0729_Zora3_53
+  - first:
+      213: -7927645670107764673
+    second: dan0729_Zora3_54
+  - first:
+      213: 1394724199861561529
+    second: dan0729_Zora3_55
+  - first:
+      213: -1712155726399524238
+    second: dan0729_Zora3_56
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dan0729_Zora3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10030.223
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe31b2fefd422360800000000000000
+      internalID: 7143357716351762111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_1
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 10030.223
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00e72c4a1ae0c6c0800000000000000
+      internalID: -4125039860003643378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_2
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 10030.223
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513b105728e8a5290800000000000000
+      internalID: -7900845905308175595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_3
+      rect:
+        serializedVersion: 2
+        x: 4041
+        y: 10030.223
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ee15b79fa879d40800000000000000
+      internalID: 5591090266524216905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_4
+      rect:
+        serializedVersion: 2
+        x: 5388
+        y: 10030.223
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b38e0d347e80d2d0800000000000000
+      internalID: -3255945900697156682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_5
+      rect:
+        serializedVersion: 2
+        x: 6735
+        y: 10030.223
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dedcde7a70c02450800000000000000
+      internalID: 6062056730787634905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_6
+      rect:
+        serializedVersion: 2
+        x: 8082
+        y: 10030.223
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1643075e412734c0800000000000000
+      internalID: -4307937898205592038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8777.223
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c240fcab3da90c0800000000000000
+      internalID: -4568106072723411939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_8
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 8777.223
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4048e5932a755f5b0800000000000000
+      internalID: -5335261829291670524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_9
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 8777.223
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626513608dd0a5e60800000000000000
+      internalID: 7951683313544025638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_10
+      rect:
+        serializedVersion: 2
+        x: 4041
+        y: 8777.223
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415beae53f2ba9d40800000000000000
+      internalID: 5591978645669197076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_11
+      rect:
+        serializedVersion: 2
+        x: 5388
+        y: 8777.223
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e0935c54cc4cd90800000000000000
+      internalID: -7078308114285916544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_12
+      rect:
+        serializedVersion: 2
+        x: 6735
+        y: 8777.223
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319a06a1473b386c0800000000000000
+      internalID: -4142269921010603757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_13
+      rect:
+        serializedVersion: 2
+        x: 8082
+        y: 8777.223
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db57c74288d1b6880800000000000000
+      internalID: -8616760991478417987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7524.222
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d2212b37bb2b740800000000000000
+      internalID: 5166397828130549123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_15
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 7524.222
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45b63205cb9641d0800000000000000
+      internalID: -3366832400964864691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_16
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 7524.222
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb45b6c5e025f6000800000000000000
+      internalID: 31333944048440508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_17
+      rect:
+        serializedVersion: 2
+        x: 4041
+        y: 7524.222
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fa9a4013984ab10800000000000000
+      internalID: 1991867778829233959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_18
+      rect:
+        serializedVersion: 2
+        x: 5388
+        y: 7524.222
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c09ec22d2b18e510800000000000000
+      internalID: 1578541550064799944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_19
+      rect:
+        serializedVersion: 2
+        x: 6735
+        y: 7524.222
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a108da39c5496d60800000000000000
+      internalID: 7883909353266741671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_20
+      rect:
+        serializedVersion: 2
+        x: 8082
+        y: 7524.222
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda9a570605489040800000000000000
+      internalID: 4654546107082906333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_21
+      rect:
+        serializedVersion: 2
+        x: 9429
+        y: 7524.222
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd02e453d0a16de0800000000000000
+      internalID: -1341614384457052680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6271.222
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98026678916dc0240800000000000000
+      internalID: 4759414311357915273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_23
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 6271.222
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b472f2b13bae310800000000000000
+      internalID: 1435156360607517543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_24
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 6271.222
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc9ff782d14f0540800000000000000
+      internalID: 4976268485748300979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_25
+      rect:
+        serializedVersion: 2
+        x: 4041
+        y: 6271.222
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04563361c9dd292e0800000000000000
+      internalID: -2120388812080978624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_26
+      rect:
+        serializedVersion: 2
+        x: 5388
+        y: 6271.222
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934a6dfb02a3de2b0800000000000000
+      internalID: -5553718853146074055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_27
+      rect:
+        serializedVersion: 2
+        x: 6735
+        y: 6271.222
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbbe7fca363f8f30800000000000000
+      internalID: 4579938972276276153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_28
+      rect:
+        serializedVersion: 2
+        x: 8082
+        y: 6271.222
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619d27e2667f59e10800000000000000
+      internalID: 2203939610905729302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_29
+      rect:
+        serializedVersion: 2
+        x: 9429
+        y: 6271.222
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd46881c672e2bba0800000000000000
+      internalID: -6074543947688418084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5018.222
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0796d3029fa5d9f0800000000000000
+      internalID: -444255946561644789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_31
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 5018.222
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eafdbad50a2384e0800000000000000
+      internalID: -1980693206479799579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_32
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 5018.222
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072b069c9081a1bd0800000000000000
+      internalID: -2658786199696526736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_33
+      rect:
+        serializedVersion: 2
+        x: 4041
+        y: 5018.222
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f091147db29e58460800000000000000
+      internalID: 7243451950199544079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_34
+      rect:
+        serializedVersion: 2
+        x: 5388
+        y: 5018.222
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf452abf28ce25b0800000000000000
+      internalID: -5391151596603879479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_35
+      rect:
+        serializedVersion: 2
+        x: 6743
+        y: 5018
+        width: 1348
+        height: 1254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca94134de787a010800000000000000
+      internalID: 1200077278819949252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_36
+      rect:
+        serializedVersion: 2
+        x: 9429
+        y: 5018.222
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae1e334122debc90800000000000000
+      internalID: -7152048117913870681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3765.2222
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76875287b81b3cd0800000000000000
+      internalID: -2577439185294621058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_38
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 3765.2222
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0d51390c31ca410800000000000000
+      internalID: 1489587294575120572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_39
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 3765.2222
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8b08cbb68f58290800000000000000
+      internalID: -7888626030661814112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_40
+      rect:
+        serializedVersion: 2
+        x: 4041
+        y: 3765.2222
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1aa2460ac1f03d0800000000000000
+      internalID: -3238338131855236612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_41
+      rect:
+        serializedVersion: 2
+        x: 5388
+        y: 3765.2222
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31868a7a05b13e70800000000000000
+      internalID: 9093248179247677757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_42
+      rect:
+        serializedVersion: 2
+        x: 6735
+        y: 3765.2222
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd60ce7d8ca08bc10800000000000000
+      internalID: 2069415886509049565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2512.2222
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de92e7363f30a660800000000000000
+      internalID: 7394980090240736976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_44
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 2512.2222
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83aed13f5204c1fb0800000000000000
+      internalID: -4675791781380625864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_45
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 2512.2222
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c53e53e74492ea00800000000000000
+      internalID: 784352321594078660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_46
+      rect:
+        serializedVersion: 2
+        x: 4041
+        y: 2512.2222
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8f9d8c29ed57700800000000000000
+      internalID: 537580452556961989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_47
+      rect:
+        serializedVersion: 2
+        x: 8082
+        y: 2512.2222
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a12ba5a0a5ea640800000000000000
+      internalID: 5093107229120403974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_48
+      rect:
+        serializedVersion: 2
+        x: 9429
+        y: 2512.2222
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029e6067336536420800000000000000
+      internalID: 2622034187083245856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6.222168
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db6781367268a200800000000000000
+      internalID: 191511243939867605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_50
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 6.222168
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d7a0d8c40292210800000000000000
+      internalID: 1308612679883717892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_51
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 6.222168
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf1235021cbb7930800000000000000
+      internalID: 4142111067879907253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_52
+      rect:
+        serializedVersion: 2
+        x: 4041
+        y: 6.222168
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673e73babb9d01de0800000000000000
+      internalID: -1364351287038581898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_53
+      rect:
+        serializedVersion: 2
+        x: 5388
+        y: 6.222168
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32796d173fe766690800000000000000
+      internalID: -7609254936343832797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_54
+      rect:
+        serializedVersion: 2
+        x: 6735
+        y: 6.222168
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f382018f3485bf190800000000000000
+      internalID: -7927645670107764673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_55
+      rect:
+        serializedVersion: 2
+        x: 8082
+        y: 6.222168
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8a36c254e0b5310800000000000000
+      internalID: 1394724199861561529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dan0729_Zora3_56
+      rect:
+        serializedVersion: 2
+        x: 9429
+        y: 6.222168
+        width: 1347.75
+        height: 1253.7778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2723ecf20733d38e0800000000000000
+      internalID: -1712155726399524238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: 89290b4289154254dbddc86104e3570a, type: 3}
+      name: Black
+    nameFileIdTable:
+      dan0729_Zora3_15: -3366832400964864691
+      dan0729_Zora3_56: -1712155726399524238
+      dan0729_Zora3_18: 1578541550064799944
+      dan0729_Zora3_17: 1991867778829233959
+      dan0729_Zora3_35: 1200077278819949252
+      dan0729_Zora3_4: -3255945900697156682
+      dan0729_Zora3_38: 1489587294575120572
+      dan0729_Zora3_12: -4142269921010603757
+      dan0729_Zora3_53: -7609254936343832797
+      dan0729_Zora3_10: 5591978645669197076
+      dan0729_Zora3_27: 4579938972276276153
+      dan0729_Zora3_41: 9093248179247677757
+      dan0729_Zora3_26: -5553718853146074055
+      dan0729_Zora3_16: 31333944048440508
+      dan0729_Zora3_29: -6074543947688418084
+      dan0729_Zora3_45: 784352321594078660
+      dan0729_Zora3_9: 7951683313544025638
+      dan0729_Zora3_46: 537580452556961989
+      dan0729_Zora3_14: 5166397828130549123
+      dan0729_Zora3_55: 1394724199861561529
+      dan0729_Zora3_51: 4142111067879907253
+      dan0729_Zora3_5: 6062056730787634905
+      dan0729_Zora3_52: -1364351287038581898
+      dan0729_Zora3_42: 2069415886509049565
+      dan0729_Zora3_7: -4568106072723411939
+      dan0729_Zora3_22: 4759414311357915273
+      dan0729_Zora3_8: -5335261829291670524
+      dan0729_Zora3_24: 4976268485748300979
+      dan0729_Zora3_47: 5093107229120403974
+      dan0729_Zora3_19: 7883909353266741671
+      dan0729_Zora3_43: 7394980090240736976
+      dan0729_Zora3_28: 2203939610905729302
+      dan0729_Zora3_40: -3238338131855236612
+      dan0729_Zora3_34: -5391151596603879479
+      dan0729_Zora3_20: 4654546107082906333
+      dan0729_Zora3_6: -4307937898205592038
+      dan0729_Zora3_23: 1435156360607517543
+      dan0729_Zora3_50: 1308612679883717892
+      dan0729_Zora3_21: -1341614384457052680
+      dan0729_Zora3_11: -7078308114285916544
+      dan0729_Zora3_30: -444255946561644789
+      dan0729_Zora3_37: -2577439185294621058
+      dan0729_Zora3_49: 191511243939867605
+      dan0729_Zora3_25: -2120388812080978624
+      dan0729_Zora3_32: -2658786199696526736
+      dan0729_Zora3_2: -7900845905308175595
+      dan0729_Zora3_48: 2622034187083245856
+      dan0729_Zora3_1: -4125039860003643378
+      dan0729_Zora3_3: 5591090266524216905
+      dan0729_Zora3_33: 7243451950199544079
+      dan0729_Zora3_44: -4675791781380625864
+      dan0729_Zora3_54: -7927645670107764673
+      dan0729_Zora3_0: 7143357716351762111
+      dan0729_Zora3_39: -7888626030661814112
+      dan0729_Zora3_13: -8616760991478417987
+      dan0729_Zora3_31: -1980693206479799579
+      dan0729_Zora3_36: -7152048117913870681
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
